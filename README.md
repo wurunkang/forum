@@ -1,2 +1,2 @@
 # forum
-build forum by golang
+build forum by golang and vue
